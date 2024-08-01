@@ -28,5 +28,3 @@ To use the database, open the `MainMenu.accdb` file in Microsoft Access. Navigat
 ## Team Members
 
 - Eduardo Silva (Group Leader)
-- [Other team member names]
-
